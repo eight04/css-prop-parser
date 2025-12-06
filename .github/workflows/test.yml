@@ -21,5 +21,6 @@ jobs:
       - run: npm cit
       - uses: codecov/codecov-action@v5
         with:
+          files: ./lcov.info
           fail_ci_if_error: true
           verbose: true
