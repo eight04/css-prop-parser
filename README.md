@@ -3,6 +3,7 @@ css-prop-parser
 
 [![test](https://github.com/eight04/css-prop-parser/actions/workflows/test.yml/badge.svg)](https://github.com/eight04/css-prop-parser/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/eight04/css-prop-parser/branch/master/graph/badge.svg)](https://codecov.io/gh/eight04/css-prop-parser)
+![bundlejs](https://deno.bundlejs.com/badge?q=css-prop-parser)
 
 A small library to parse CSS property strings. Can be useful to extract value from CSS properties without a full CSS parser.
 
