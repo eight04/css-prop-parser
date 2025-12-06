@@ -1,6 +1,6 @@
 {
   "name": "css-prop-parser",
-  "version": "0.1.1",
+  "version": "0.0.0",
   "description": "A small library to parse CSS property strings. Can be useful to extract value from CSS properties without a full CSS parser.",
   "keywords": [
     "css",
