@@ -1,0 +1,24 @@
+{
+	"version": 3,
+	"file": "index.d.ts",
+	"names": [
+		"parseBackgroundImage",
+		"eatRightParen",
+		"parseCommaList",
+		"parseImageSet",
+		"eatWhitespace",
+		"parseString",
+		"parseQuotedString",
+		"unquote",
+		"RX_COMMA_LIST",
+		"RX_WHITESPACE"
+	],
+	"sources": [
+		"../lib/index.js"
+	],
+	"sourcesContent": [
+		null
+	],
+	"mappings": ";;;;;iBAgCgBA,oBAAoBA;;;;iBAyBpBC,aAAaA;;;;;;;iBAqBbC,cAAcA;;;;;;;;;;;iBAgDdC,aAAaA;;;iBA4BbC,aAAaA;;;iBAYbC,WAAWA;;;iBAkBXC,iBAAiBA;;;;iBAqBjBC,OAAOA;cA7MVC,aAAaA;cACbC,aAAaA",
+	"ignoreList": []
+}
